@@ -3,7 +3,7 @@
 <h2>Description</h2> 
 <br> 
 
-A single page library application called MyLibrary, which allowes to create/edit/delete authors.
+A single page library application called MyLibrary, which allowes to store books and create/edit/delete authors.
 <br>
 
 ![image](https://user-images.githubusercontent.com/59529145/153769816-abc79c02-a6e3-4dca-b2e8-4371b3784b54.png)
